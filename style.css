@@ -1,0 +1,29 @@
+
+    h1{
+        color: paleturquoise;
+    }
+
+
+.header{
+    background-color: steelblue;
+    display:flex;
+    justify-content:space-around; 
+}
+
+.grid{
+background-color: white;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+
+}
+
+.h2,p{
+text-align: center;    
+}
+
+.footer{
+background-color: black;
+display: flex;
+justify-content: space-evenly;
+}
